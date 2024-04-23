@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+
+// correção da prova
 int main() {
     srand(time(NULL));
     
